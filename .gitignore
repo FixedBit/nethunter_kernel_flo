@@ -87,3 +87,6 @@ GTAGS
 
 /build/
 *.diff
+
+# NetHunter Kernel Builder
+/kali-nethunter-kernel/
